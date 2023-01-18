@@ -9,4 +9,5 @@ const Component = (props) => {
   }
   return <>{error && <div>{""}</div>}</>;
 };
-export default Components;
+
+export default Component;
